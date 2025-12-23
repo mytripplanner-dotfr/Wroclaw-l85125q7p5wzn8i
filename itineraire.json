@@ -1,0 +1,115 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade Relaxante à Wroclaw : Charme Historique et Douceur Polonaise",
+  "budget_total": "661 €",
+  "duree": "4 jours",
+  "temps_vol": "1h50 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur du Rynek",
+      "legende": "Après votre vol direct, installez-vous confortablement et laissez-vous charmer par l'ambiance sereine de la Place du Marché. Une première immersion tout en douceur dans le cœur historique de Wroclaw, parfaite pour se détendre après le voyage.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Wroclaw (WRO)</strong>: Transfert vers le centre-ville et installation à votre hôtel.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♂️ Balade relaxante sur la Place du Marché (Rynek)</strong>: Découvrez l'une des plus grandes et belles places d'Europe, admirez les façades colorées et l'Hôtel de Ville gothique. Profitez de l'atmosphère paisible en fin de journée."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre-ville de Wroclaw est très bien desservi depuis l'aéroport par les transports en commun (bus 106 ou 206 de nuit) ou en taxi, pour environ 30-40 PLN."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌿",
+      "titre": "Île Cathédrale et Sérénité Botanique",
+      "legende": "Explorez l'île historique d'Ostrów Tumski, berceau de Wroclaw, avant de vous immerger dans la quiétude du Jardin Botanique. Terminez la journée par une croisière apaisante sur l'Oder, offrant une perspective unique sur la ville.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>⛪ Visite d'Ostrów Tumski (Île Cathédrale)</strong>: Flânez dans ce quartier historique et paisible, admirez la Cathédrale Saint-Jean-Baptiste et les charmantes ruelles éclairées au gaz le soir.",
+        "<strong>🌳 Promenade au Jardin Botanique de l'Université de Wroclaw</strong>: Détendez-vous au milieu d'une riche collection de plantes, de serres et de bassins. Un havre de paix idéal pour une balade douce.",
+        "<strong>⛵ Croisière relaxante sur l'Oder</strong>: Profitez d'une perspective différente sur Wroclaw en naviguant tranquillement sur le fleuve, observant les ponts et les berges verdoyantes."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Astuce",
+          "texte": "Ostrów Tumski est entièrement piétonne, ce qui en fait un lieu parfait pour une promenade sans stress. N'oubliez pas d'admirer les lampadaires à gaz allumés à la main au crépuscule."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Nains, Panorama et Détente Aquatique",
+      "legende": "Partez à la chasse aux célèbres nains de Wroclaw, découvrez l'impressionnante fresque du Panorama de Racławice, puis offrez-vous un moment de pure relaxation dans un centre aquatique moderne.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>🔎 Chasse aux nains de Wroclaw</strong>: Amusez-vous à repérer les centaines de petites statues de nains disséminées dans la ville, une activité ludique et douce pour explorer les rues.",
+        "<strong>🖼️ Visite du Panorama de Racławice</strong>: Admirez cette peinture cycloramique monumentale, une expérience immersive unique qui raconte une bataille historique polonaise. Un chef-d'œuvre impressionnant.",
+        "<strong>🏊‍♀️ Détente à l'Aquapark Wroclaw</strong>: Profitez des piscines de relaxation, des saunas et des jacuzzis de l'Aquapark pour un après-midi de bien-être et de détente absolue."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Billets",
+          "texte": "Il est conseillé de réserver vos billets pour le Panorama de Racławice à l'avance, surtout en haute saison, pour éviter les files d'attente."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez d'une dernière matinée pour quelques emplettes ou un café paisible sur la Place du Marché. Imprégnez-vous une dernière fois de l'ambiance de Wroclaw avant de prendre votre vol retour, la tête pleine de doux souvenirs.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>🛍️ Shopping de souvenirs ou café matinal</strong>: Achetez quelques derniers souvenirs ou savourez un café et une pâtisserie polonaise dans un des charmants cafés du Rynek.",
+        "<strong>🚶‍♂️ Dernière balade dans le centre</strong>: Profitez d'une dernière promenade pour revoir vos lieux préférés ou découvrir un petit coin que vous auriez manqué.",
+        "<strong>🛫 Départ de Wroclaw</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez à rapporter de l'ambre de la Baltique, des céramiques de Bolesławiec ou des spécialités locales comme le \"pierogi\" congelé ou des vodkas aromatisées."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "221 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 35 €/pers (transferts aéroport + transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 240 €/pers (20 €/repas en moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 105 €/pers (3 nuits en hôtel 3* sur base chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (entrées musées, jardin, croisière, aquapark)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Złoty Polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est le polonais. L'anglais est parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type E (comme en France), aucun adaptateur n'est nécessaire.", "symbole": "🔌" },
+    { "titre": "Wroclaw est une ville très agréable à explorer à pied ou en tramway. Le réseau de transports en commun est efficace et abordable.", "symbole": "🚶‍♀️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Wroclaw", "url": "https://www.kayak.fr/flights/CDG-WRO/2026-03-10/2026-03-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Wroclaw", "url": "https://visitwroclaw.eu/", "symbole": "📘" },
+    { "legende": "Transports en commun Wroclaw", "titre": "Infos transports Wroclaw", "url": "https://www.wroclaw.pl/en/transport", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Wroclaw", "url": "https://www.meteopologne.com/wroclaw/", "symbole": "🌤️" }
+  ]
+}
